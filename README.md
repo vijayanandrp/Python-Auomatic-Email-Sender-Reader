@@ -24,4 +24,6 @@ bcc = ['vijay.anandp@informationcorners.com']
 
 ### ~ kindly install the required dependencies/packages using pip tool. ~
 
-(https://informationcorners.com/read-send-emails-python/)[https://informationcorners.com/read-send-emails-python/]
+Please visit the below site for any doubts,
+[https://informationcorners.com/read-send-emails-python/](https://informationcorners.com/read-send-emails-python/)
+
