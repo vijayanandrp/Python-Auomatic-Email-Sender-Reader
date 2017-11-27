@@ -18,6 +18,12 @@ from config import smtp_email, smtp_port, smtp_server
 from template import email_subject, email_message_html, email_message_plain
 from logger import Logger
 
+__authors__ = ["P. Vijay Anand"]
+__email__ = "vijayanandrp@gmail.com"
+__version__ = "0.010"
+__status__ = "This software is inital version."
+__date__ = "27, Nov 2017"
+
 log = Logger.defaults(name="EMAIL_LIB", output_stream=False)
 
 
